@@ -1,2 +1,11 @@
 # git-study
 for studing git
+
+### base command line
+git add [. | file name]
+git commit -m <info>
+git commit --amend #update the commit info
+git push origin <branch name>
+git stash
+git stash list # get the stash list
+git stash pop # get the first stash files
