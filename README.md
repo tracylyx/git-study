@@ -17,4 +17,4 @@ git tag -d <tag name> # delete the tag
 git push origin <tag name> # push the tag to the remote
 
 ### revert
-test
+- git revert commitid-1^..commitid-n # [commitid-1, commitid-n]
